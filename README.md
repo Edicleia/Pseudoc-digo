@@ -1,2 +1,2 @@
-# Pseudoc-digo
+# Pseudocodigo
 Fluxogramas
