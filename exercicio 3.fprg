@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Edicleia Martins"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-01-22 07:25:05 "/>
+        <attribute name="created" value="RWRpY2xlaWEgTWFydGlucztFRElDTEVJQU1BUlRJTlM7MjAyMS0wMS0yMjsiMDY6NTY6NDYgIjszODQ0"/>
+        <attribute name="edited" value="RWRpY2xlaWEgTWFydGlucztFRElDTEVJQU1BUlRJTlM7MjAyMS0wMS0yMjsiMDc6MjU6MDUgIjsxOzM5NDQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cliente" type="String" array="False" size=""/>
+            <declare name="cartao" type="Boolean" array="False" size=""/>
+            <declare name="numero" type="String" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
